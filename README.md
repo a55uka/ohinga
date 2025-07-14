@@ -1,5 +1,6 @@
 # ohinga
--# bin in Luo
+
+<sub><sup>bin in Luo</sup</sub>
 
 
 
